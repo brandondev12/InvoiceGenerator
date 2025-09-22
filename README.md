@@ -1,5 +1,5 @@
 # Invoice Generator with VBA
-[![GitHub](https://badgen.net/badge/icon/GitHub?icon=github&color=black&label)](https://github.com/MaxineXiong)
+[![GitHub](https://badgen.net/badge/icon/GitHub?icon=github&color=black&label)](https://github.com/brandondev12)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 The Invoice Generator is an Excel template with a range of VBA programs designed to automate the process of generating invoices and provide a centralized overview of invoice status. This tool simplifies the administrative tasks involved in invoice management, reducing the time and effort required for invoice creation.
